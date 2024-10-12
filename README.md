@@ -48,5 +48,6 @@ EvolveAI && Gleb
 <a href="t.me/EvovleAI" src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
 Github sources
 <a href="https://GitHub.com/Nam4ik"src="https://img.shields.io/badge/GitHub-%0D1119.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-[![ReadME Card](https://github-readme-stats.vercel.app/api/pin/&username=Namilskyy&repo=BitumCar)](https://Github.com/Nam4ik/BitumCar)
+
+ [![ReadME Card](https://github-readme-stats.vercel.app/api/pin/&username=Namilskyy&repo=BitumCar)](https://Github.com/Nam4ik/BitumCar)
 </body>
