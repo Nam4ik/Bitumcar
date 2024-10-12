@@ -25,7 +25,12 @@
 -------------------------
 Digital tools
 -------------------------
-![](https://sillicons.dev/icons?i=dotnet,py,ts,aiscript, docker, nodejs, arduino)
+
+<p align = center>
+ <a href = https://sillicons.dev/icons?i=dotnet,py,ts,aiscript, docker, nodejs, arduino>
+ </a>
+ </p>
+
 
 #Особенности и сложности
 --------------------------
