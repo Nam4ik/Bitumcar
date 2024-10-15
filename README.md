@@ -42,15 +42,26 @@ Digital tools
 --------------------------
 
 <body>
-<p align = center>
-ArcaneDevStudio && Namilskyy
-<img src = "/images/ArcaneDevStudio.jpg>
-<a href="t.me/ArcaneDevStudio" src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
-EvolveAI && Gleb
-<img src = "/images/Evolveai.jpg>
-<a href="t.me/EvovleAI" src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
-Github sources
-<a href="https://GitHub.com/Nam4ik"src="https://img.shields.io/badge/GitHub-%0D1119.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-
- [![ReadME Card](https://github-readme-stats.vercel.app/api/pin/&username=Namilskyy&repo=BitumCar)](https://Github.com/Nam4ik/BitumCar)
+<p align="center">
+    ArcaneDevStudio && Namilskyy
+    <img src="/images/ArcaneDevStudio.jpg" alt="ArcaneDevStudio">
+    <a href="https://t.me/ArcaneDevStudio">
+        <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram ArcaneDevStudio">
+    </a>
+    <br>
+    EvolveAI && Gleb
+    <img src="/images/EvolveAI.jpg" alt="EvolveAI">
+    <a href="https://t.me/Evovle_AI">
+        <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram EvolveAI">
+    </a>
+    <br>
+    Github sources
+    <a href="https://GitHub.com/Nam4ik">
+        <img src="https://img.shields.io/badge/GitHub-%0D1119.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Nam4ik">
+    </a>
+    <br>
+    <a href="https://Github.com/Nam4ik/BitumCar">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namilskyy&repo=BitumCar" alt="BitumCar">
+    </a>
+</p>
 </body>
