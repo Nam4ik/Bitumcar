@@ -65,7 +65,7 @@ Digital tools
     <br>
   <p align="center">
     <a href="https://Github.com/Nam4ik/Bitumcar">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namilskyy&repo=BitumCar" alt="BitumCar">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nam4ik&repo=Bitumcar" alt="Bitumcar">
     </a>
 </p>
 </body>
